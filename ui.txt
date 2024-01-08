@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+class ui
+{
+    public:
+        ui(){};
+        void go(int x, int y);
+        void printmap();
+        void color(int a = 7);
+        bool goout(int x,int y);
+};

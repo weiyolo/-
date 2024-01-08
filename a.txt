@@ -1,0 +1,33 @@
+.是move指令
+    f = 防具商店
+    w = 武器商店
+    n = 任務中接取中心
+    g = 野外
+    1 = room1
+    2 = room2
+    3 = 從世界地圖跳回來
+    4 = 跳進世界地圖
+
+room1小寫p 屬性點數頁面
+    h生命加成
+    s體力加成
+    d傷害加成
+    r go back room1 
+    
+room1小寫o 技能點數頁面
+    1 技能1升級
+    .
+    .
+    .
+    .
+    r go back room1
+
+room2輸入/跳入任務結算清單頁面mi
+    aflsah
+    bflash
+    cflash
+
+打怪順序
+    骷
+    殭
+    蜘
